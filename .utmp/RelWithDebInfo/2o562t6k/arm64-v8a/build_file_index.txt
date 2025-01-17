@@ -1,0 +1,2 @@
+C:\Users\ricvi\OneDrive\Documentos\IST\1Ano - 2P\RV\Rvir2425\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\ricvi\OneDrive\Documentos\IST\1Ano - 2P\RV\Rvir2425\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

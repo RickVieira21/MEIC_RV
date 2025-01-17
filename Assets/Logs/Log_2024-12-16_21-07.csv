@@ -1,0 +1,817 @@
+Timestamp;Name;Position;Rotation;Grabbed
+0;Right Hand Presence Physics;(0.00, 0.17, 0.00);(0.00, 0.00, 0.00)
+0;Left Hand Presence Physics;(0.00, 0.17, 0.00);(0.00, 0.00, 0.00)
+0;Right Hand Presence Physics;(0.00, 0.17, 0.00);(0.00, 0.00, 0.00)
+0;Left Hand Presence Physics;(0.00, 0.17, 0.00);(0.00, 0.00, 0.00)
+0;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+0;Metal Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+0.500162;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+0.500162;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+0.500162;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+0.500162;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+0.500162;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+0.500162;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+1.000198;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+1.000198;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+1.000198;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+1.000198;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+1.000198;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+1.000198;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+1.500841;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+1.500841;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+1.500841;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+1.500841;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+1.500841;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+1.500841;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+2.001101;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+2.001101;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+2.001101;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+2.001101;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+2.001101;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+2.001101;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+2.501127;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+2.501127;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+2.501127;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+2.501127;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+2.501127;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+2.501127;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+3.001748;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+3.001748;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+3.001748;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+3.001748;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+3.001748;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+3.001748;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+3.50313;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+3.50313;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+3.50313;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+3.50313;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+3.50313;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+3.50313;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+4.004603;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+4.004603;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+4.004603;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+4.004603;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+4.004603;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+4.004603;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+4.505819;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+4.505819;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+4.505819;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+4.505819;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+4.505819;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+4.505819;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+5.005952;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+5.005952;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+5.005952;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+5.005952;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+5.005952;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+5.005952;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+5.506689;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+5.506689;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+5.506689;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+5.506689;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+5.506689;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+5.506689;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+6.007148;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+6.007148;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+6.007148;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+6.007148;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+6.007148;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+6.007148;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+6.507882;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+6.507882;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+6.507882;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+6.507882;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+6.507882;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+6.507882;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+7.008958;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+7.008958;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+7.008958;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+7.008958;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+7.008958;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+7.008958;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+7.510176;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+7.510176;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+7.510176;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+7.510176;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+7.510176;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+7.510176;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+8.010217;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+8.010217;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+8.010217;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+8.010217;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+8.010217;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+8.010217;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+8.511054;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+8.511054;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+8.511054;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+8.511054;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+8.511054;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+8.511054;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+9.01127;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+9.01127;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+9.01127;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+9.01127;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+9.01127;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+9.01127;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+9.512762;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+9.512762;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+9.512762;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+9.512762;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+9.512762;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+9.512762;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+10.01294;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+10.01294;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+10.01294;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+10.01294;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+10.01294;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+10.01294;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+10.51337;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+10.51337;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+10.51337;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+10.51337;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+10.51337;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+10.51337;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+11.01386;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+11.01386;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+11.01386;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+11.01386;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+11.01386;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+11.01386;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+11.51527;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+11.51527;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+11.51527;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+11.51527;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+11.51527;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+11.51527;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+12.01537;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+12.01537;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+12.01537;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+12.01537;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+12.01537;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+12.01537;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+12.51611;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+12.51611;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+12.51611;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+12.51611;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+12.51611;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+12.51611;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+13.01615;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+13.01615;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+13.01615;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+13.01615;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+13.01615;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+13.01615;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+13.51715;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+13.51715;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+13.51715;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+13.51715;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+13.51715;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+13.51715;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+14.01839;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+14.01839;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+14.01839;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+14.01839;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+14.01839;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+14.01839;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+14.51849;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+14.51849;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+14.51849;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+14.51849;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+14.51849;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+14.51849;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+15.01988;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+15.01988;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+15.01988;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+15.01988;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+15.01988;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+15.01988;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+15.52023;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+15.52023;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+15.52023;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+15.52023;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+15.52023;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+15.52023;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+16.02113;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+16.02113;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+16.02113;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+16.02113;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+16.02113;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+16.02113;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+16.52208;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+16.52208;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+16.52208;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+16.52208;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+16.52208;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+16.52208;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+17.0221;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+17.0221;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+17.0221;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+17.0221;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+17.0221;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+17.0221;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+17.52252;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+17.52252;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+17.52252;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+17.52252;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+17.52252;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+17.52252;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+18.02343;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+18.02343;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+18.02343;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+18.02343;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+18.02343;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+18.02343;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+18.52355;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+18.52355;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+18.52355;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+18.52355;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+18.52355;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+18.52355;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+19.02358;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+19.02358;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+19.02358;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+19.02358;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+19.02358;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+19.02358;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+19.52422;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+19.52422;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+19.52422;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+19.52422;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+19.52422;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+19.52422;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+20.02447;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+20.02447;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+20.02447;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+20.02447;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+20.02447;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+20.02447;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+20.52483;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+20.52483;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+20.52483;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+20.52483;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+20.52483;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+20.52483;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+21.02513;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+21.02513;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+21.02513;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+21.02513;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+21.02513;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+21.02513;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+21.52566;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+21.52566;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+21.52566;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+21.52566;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+21.52566;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+21.52566;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+22.02635;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+22.02635;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+22.02635;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+22.02635;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+22.02635;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+22.02635;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+22.52726;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+22.52726;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+22.52726;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+22.52726;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+22.52726;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+22.52726;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+23.02753;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+23.02753;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+23.02753;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+23.02753;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+23.02753;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+23.02753;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+23.52801;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+23.52801;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+23.52801;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+23.52801;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+23.52801;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+23.52801;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+24.0291;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+24.0291;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+24.0291;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+24.0291;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+24.0291;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+24.0291;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+24.52919;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+24.52919;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+24.52919;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+24.52919;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+24.52919;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+24.52919;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+25.03043;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+25.03043;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+25.03043;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+25.03043;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+25.03043;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+25.03043;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+25.53112;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+25.53112;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+25.53112;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+25.53112;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+25.53112;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+25.53112;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+26.03114;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+26.03114;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+26.03114;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+26.03114;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+26.03114;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+26.03114;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+26.53132;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+26.53132;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+26.53132;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+26.53132;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+26.53132;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+26.53132;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+27.03252;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+27.03252;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+27.03252;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+27.03252;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+27.03252;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+27.03252;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+27.53284;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+27.53284;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+27.53284;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+27.53284;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+27.53284;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+27.53284;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+28.03334;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+28.03334;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+28.03334;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+28.03334;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+28.03334;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+28.03334;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+28.53366;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+28.53366;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+28.53366;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+28.53366;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+28.53366;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+28.53366;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+29.03405;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+29.03405;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+29.03405;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+29.03405;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+29.03405;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+29.03405;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+29.53439;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+29.53439;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+29.53439;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+29.53439;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+29.53439;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+29.53439;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+30.0345;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+30.0345;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+30.0345;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+30.0345;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+30.0345;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+30.0345;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+30.53544;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+30.53544;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+30.53544;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+30.53544;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+30.53544;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+30.53544;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+31.036;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+31.036;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+31.036;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+31.036;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+31.036;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+31.036;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+31.5373;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+31.5373;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+31.5373;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+31.5373;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+31.5373;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+31.5373;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+32.03809;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+32.03809;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+32.03809;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+32.03809;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+32.03809;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+32.03809;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+32.53874;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+32.53874;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+32.53874;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+32.53874;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+32.53874;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+32.53874;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+33.03887;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+33.03887;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+33.03887;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+33.03887;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+33.03887;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+33.03887;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+33.54015;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+33.54015;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+33.54015;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+33.54015;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+33.54015;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+33.54015;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+34.04095;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+34.04095;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+34.04095;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+34.04095;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+34.04095;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+34.04095;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+34.54185;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+34.54185;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+34.54185;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+34.54185;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+34.54185;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+34.54185;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+35.04224;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+35.04224;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+35.04224;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+35.04224;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+35.04224;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+35.04224;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+35.5437;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+35.5437;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+35.5437;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+35.5437;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+35.5437;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+35.5437;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+36.04454;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+36.04454;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+36.04454;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+36.04454;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+36.04454;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+36.04454;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+36.54548;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+36.54548;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+36.54548;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+36.54548;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+36.54548;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+36.54548;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+37.04691;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+37.04691;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+37.04691;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+37.04691;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+37.04691;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+37.04691;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+37.54745;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+37.54745;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+37.54745;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+37.54745;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+37.54745;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+37.54745;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+38.04807;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+38.04807;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+38.04807;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+38.04807;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+38.04807;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+38.04807;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+38.54892;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+38.54892;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+38.54892;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+38.54892;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+38.54892;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+38.54892;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+39.05005;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+39.05005;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+39.05005;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+39.05005;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+39.05005;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+39.05005;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+39.55019;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+39.55019;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+39.55019;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+39.55019;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+39.55019;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+39.55019;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+40.051;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+40.051;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+40.051;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+40.051;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+40.051;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+40.051;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+40.55218;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+40.55218;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+40.55218;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+40.55218;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+40.55218;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+40.55218;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+41.0531;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+41.0531;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+41.0531;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+41.0531;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+41.0531;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+41.0531;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+41.55385;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+41.55385;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+41.55385;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+41.55385;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+41.55385;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+41.55385;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+42.05516;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+42.05516;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+42.05516;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+42.05516;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+42.05516;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+42.05516;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+42.55653;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+42.55653;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+42.55653;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+42.55653;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+42.55653;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+42.55653;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+43.05717;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+43.05717;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+43.05717;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+43.05717;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+43.05717;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+43.05717;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+43.55759;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+43.55759;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+43.55759;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+43.55759;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+43.55759;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+43.55759;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+44.05875;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+44.05875;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+44.05875;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+44.05875;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+44.05875;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+44.05875;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+44.55955;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+44.55955;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+44.55955;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+44.55955;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+44.55955;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+44.55955;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+45.0597;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+45.0597;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+45.0597;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+45.0597;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+45.0597;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+45.0597;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+45.56052;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+45.56052;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+45.56052;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+45.56052;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+45.56052;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+45.56052;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+46.06113;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+46.06113;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+46.06113;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+46.06113;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+46.06113;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+46.06113;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+46.56276;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+46.56276;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+46.56276;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+46.56276;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+46.56276;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+46.56276;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+47.06389;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+47.06389;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+47.06389;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+47.06389;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+47.06389;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+47.06389;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+47.56525;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+47.56525;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+47.56525;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+47.56525;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+47.56525;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+47.56525;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+48.06875;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+48.06875;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+48.06875;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+48.06875;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+48.06875;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+48.06875;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+48.57021;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+48.57021;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+48.57021;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+48.57021;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+48.57021;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+48.57021;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+49.07058;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+49.07058;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+49.07058;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+49.07058;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+49.07058;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+49.07058;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+49.57196;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+49.57196;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+49.57196;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+49.57196;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+49.57196;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+49.57196;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+50.07204;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+50.07204;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+50.07204;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+50.07204;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+50.07204;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+50.07204;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+50.57347;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+50.57347;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+50.57347;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+50.57347;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+50.57347;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+50.57347;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+51.07405;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+51.07405;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+51.07405;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+51.07405;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+51.07405;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+51.07405;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+51.57524;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+51.57524;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+51.57524;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+51.57524;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+51.57524;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+51.57524;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+52.07535;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+52.07535;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+52.07535;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+52.07535;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+52.07535;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+52.07535;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+52.57592;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+52.57592;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+52.57592;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+52.57592;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+52.57592;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+52.57592;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+53.0769;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+53.0769;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+53.0769;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+53.0769;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+53.0769;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+53.0769;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+53.57803;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+53.57803;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+53.57803;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+53.57803;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+53.57803;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+53.57803;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+54.07923;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+54.07923;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+54.07923;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+54.07923;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+54.07923;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+54.07923;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+54.57985;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+54.57985;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+54.57985;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+54.57985;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+54.57985;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+54.57985;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+55.0807;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+55.0807;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+55.0807;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+55.0807;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+55.0807;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+55.0807;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+55.58124;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+55.58124;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+55.58124;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+55.58124;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+55.58124;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+55.58124;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+56.08174;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+56.08174;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+56.08174;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+56.08174;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+56.08174;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+56.08174;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+56.58235;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+56.58235;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+56.58235;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+56.58235;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+56.58235;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+56.58235;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+57.083;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+57.083;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+57.083;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+57.083;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+57.083;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+57.083;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+57.58347;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+57.58347;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+57.58347;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+57.58347;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+57.58347;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+57.58347;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+58.08348;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+58.08348;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+58.08348;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+58.08348;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+58.08348;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+58.08348;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+58.58452;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+58.58452;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+58.58452;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+58.58452;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+58.58452;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+58.58452;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+59.08529;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+59.08529;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+59.08529;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+59.08529;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+59.08529;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+59.08529;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+59.58567;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+59.58567;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+59.58567;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+59.58567;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+59.58567;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+59.58567;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+60.0865;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+60.0865;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+60.0865;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+60.0865;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+60.0865;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+60.0865;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+60.58723;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+60.58723;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+60.58723;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+60.58723;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+60.58723;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+60.58723;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+61.08733;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+61.08733;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+61.08733;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+61.08733;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+61.08733;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+61.08733;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+61.58863;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+61.58863;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+61.58863;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+61.58863;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+61.58863;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+61.58863;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+62.08868;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+62.08868;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+62.08868;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+62.08868;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+62.08868;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+62.08868;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+62.5891;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+62.5891;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+62.5891;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+62.5891;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+62.5891;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+62.5891;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+63.0892;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+63.0892;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+63.0892;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+63.0892;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+63.0892;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+63.0892;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+63.59047;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+63.59047;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+63.59047;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+63.59047;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 0.00, 0.00)
+63.59047;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+63.59047;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+64.09199;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 359.80, 0.00)
+64.09199;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 359.80, 0.00)
+64.09199;Right Hand Presence Physics;(0.10, 1.31, 0.30);(0.00, 359.80, 0.00)
+64.09199;Left Hand Presence Physics;(-0.10, 1.31, 0.30);(0.00, 359.80, 0.00)
+64.09199;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+64.09199;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+64.59246;Right Hand Presence Physics;(0.15, 1.31, -0.28);(0.00, 133.20, 0.00)
+64.59246;Left Hand Presence Physics;(0.29, 1.31, -0.13);(0.00, 133.20, 0.00)
+64.59246;Right Hand Presence Physics;(0.15, 1.31, -0.28);(0.00, 133.20, 0.00)
+64.59246;Left Hand Presence Physics;(0.29, 1.31, -0.13);(0.00, 133.20, 0.00)
+64.59246;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+64.59246;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+65.09391;Right Hand Presence Physics;(-0.26, 1.31, 0.18);(0.00, 287.00, 0.00)
+65.09391;Left Hand Presence Physics;(-0.32, 1.31, -0.01);(0.00, 287.00, 0.00)
+65.09391;Right Hand Presence Physics;(-0.26, 1.31, 0.18);(0.00, 287.00, 0.00)
+65.09391;Left Hand Presence Physics;(-0.32, 1.31, -0.01);(0.00, 287.00, 0.00)
+65.09391;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+65.09391;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+65.5945;Right Hand Presence Physics;(-0.31, 1.31, 0.08);(0.00, 266.20, 0.00)
+65.5945;Left Hand Presence Physics;(-0.29, 1.31, -0.12);(0.00, 266.20, 0.00)
+65.5945;Right Hand Presence Physics;(-0.31, 1.31, 0.08);(0.00, 266.20, 0.00)
+65.5945;Left Hand Presence Physics;(-0.29, 1.31, -0.12);(0.00, 266.20, 0.00)
+65.5945;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+65.5945;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+66.09515;Right Hand Presence Physics;(-0.24, 1.31, 0.21);(0.00, 292.00, 0.00)
+66.09515;Left Hand Presence Physics;(-0.32, 1.31, 0.02);(0.00, 292.00, 0.00)
+66.09515;Right Hand Presence Physics;(-0.24, 1.31, 0.21);(0.00, 292.00, 0.00)
+66.09515;Left Hand Presence Physics;(-0.32, 1.31, 0.02);(0.00, 292.00, 0.00)
+66.09515;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+66.09515;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+66.59562;Right Hand Presence Physics;(-0.19, 1.31, 0.25);(0.00, 303.80, 0.00)
+66.59562;Left Hand Presence Physics;(-0.30, 1.31, 0.08);(0.00, 303.80, 0.00)
+66.59562;Right Hand Presence Physics;(-0.19, 1.31, 0.25);(0.00, 303.80, 0.00)
+66.59562;Left Hand Presence Physics;(-0.30, 1.31, 0.08);(0.00, 303.80, 0.00)
+66.59562;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+66.59562;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+67.09647;Right Hand Presence Physics;(-0.19, 1.31, 0.26);(0.00, 305.40, 0.00)
+67.09647;Left Hand Presence Physics;(-0.30, 1.31, 0.09);(0.00, 305.40, 0.00)
+67.09647;Right Hand Presence Physics;(-0.19, 1.31, 0.26);(0.00, 305.40, 0.00)
+67.09647;Left Hand Presence Physics;(-0.30, 1.31, 0.09);(0.00, 305.40, 0.00)
+67.09647;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+67.09647;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
+67.59743;Right Hand Presence Physics;(-0.19, 1.31, 0.26);(0.00, 305.40, 0.00)
+67.59743;Left Hand Presence Physics;(-0.30, 1.31, 0.09);(0.00, 305.40, 0.00)
+67.59743;Right Hand Presence Physics;(-0.19, 1.31, 0.26);(0.00, 305.40, 0.00)
+67.59743;Left Hand Presence Physics;(-0.30, 1.31, 0.09);(0.00, 305.40, 0.00)
+67.59743;Rubber Cube;(-0.11, 1.27, 5.65);(0.00, 0.00, 0.00);False
+67.59743;Metal Cube;(-0.11, 0.55, 5.65);(0.00, 0.00, 0.00);False
